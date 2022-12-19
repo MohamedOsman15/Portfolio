@@ -36,7 +36,7 @@ const Projects = () => {
                 <img className="projectImg" src={insta} alt="Insta Clone" />
                 <div className='content'>
                     <h2>InstaClone</h2>
-                    <a className="links" href="www.google.com" target="_blank" rel="noreferrer">Link to live site</a>
+                    <a className="links" href="https://instaclone.up.railway.app/" target="_blank" rel="noreferrer">Link to live site</a>
                     <h3>Technologies:</h3>
                     <p>HTML, CSS, and Javascript</p>
                     <p>Node.js with Express</p>
