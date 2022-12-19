@@ -6,8 +6,8 @@ const Links = () => {
     
 
     return (
-        <div>
         <div className='footer'>
+            <div className='footerLinks'>
             <a target="_blank" href="https://github.com/MohamedOsman15" ><img  className='footerLinks' src={github} alt="LinkedIn" /></a>
             <a target="_blank" href="https://www.linkedin.com/in/mohamed-aosman/" ><img className='footerLinks' src={linkedin} alt="LinkedIn" /></a>
             <a href="mailto:osman.mohamed2244@gmail.com" ><img className='footerLinks' src={email} alt="LinkedIn" /></a>
